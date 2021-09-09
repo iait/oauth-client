@@ -1,0 +1,90 @@
+{"properties": [
+  {
+    "name": "springdoc.authorization-url",
+    "type": "java.lang.String",
+    "description": "URL para autorización"
+  },
+  {
+    "name": "springdoc.token-url",
+    "type": "java.lang.String",
+    "description": "URL para obtener el access token"
+  },
+  {
+    "name": "eivas.datasource.url",
+    "type": "java.lang.String",
+    "description": "URL base de datos del servidor de autorizaciones"
+  },
+  {
+    "name": "eivas.datasource.username",
+    "type": "java.lang.String",
+    "description": "Nombre de usuario eivas DB"
+  },
+  {
+    "name": "eivas.datasource.password",
+    "type": "java.lang.String",
+    "description": "Clave eivas DB"
+  },
+  {
+    "name": "eivas.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "Driver eivas DB"
+  },
+  {
+    "name": "eivas.jpa.properties.hibernate.dialect",
+    "type": "java.lang.String",
+    "description": "Dialecto eivas DB"
+  },
+  {
+    "name": "info.app.contact.name",
+    "type": "java.lang.String",
+    "description": "Contacto"
+  },
+  {
+    "name": "info.app.contact.url",
+    "type": "java.lang.String",
+    "description": "URL de contacto"
+  },
+  {
+    "name": "info.app.contact.email",
+    "type": "java.lang.String",
+    "description": "Email de contacto"
+  },
+  {
+    "name": "info.app.title",
+    "type": "java.lang.String",
+    "description": "T&iacute;tulo de la app"
+  },
+  {
+    "name": "info.app.description",
+    "type": "java.lang.String",
+    "description": "Descripci&oacute;n de la app"
+  },
+  {
+    "name": "springdoc.contact-name",
+    "type": "java.lang.String"
+  },
+  {
+    "name": "springdoc.contact-url",
+    "type": "java.lang.String"
+  },
+  {
+    "name": "springdoc.contact-email",
+    "type": "java.lang.String"
+  },
+  {
+    "name": "springdoc.title",
+    "type": "java.lang.String"
+  },
+  {
+    "name": "springdoc.description",
+    "type": "java.lang.String"
+  },
+  {
+    "name": "springdoc.version",
+    "type": "java.lang.String"
+  },
+  {
+    "name": "security.oauth2.resource.id",
+    "type": "java.lang.String"
+  }
+]}
